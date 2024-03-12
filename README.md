@@ -1,11 +1,11 @@
-## 👋 Hello! I'm Nick Orsi 💻 Software Engineer & Former Civil Engineer 🏗️
+## 👋 Hello! I'm Nick Orsi 💻 Software Engineer & Former Civil Engineer 🚧
 
-For 8 years of my life I worked as a Civil Engineer across 3 different states helping build really cool projects. I mangaged a lot of interesting work (including blasting 💥), worked with talented teams, and helped make positive impacts. I have since transitioned my career to return to a life long passion held for tech. After completing an intense 17 week program with [Rithm School](https://www.rithmschool.com/), I'm excited to combine my technical knowledge with the habits and skillset of a practicing engineer to work as a software engineer. I look forward to continue working on challenging projects, with talented teams, making positive impacts.
+I worked for 8 years as a Civil Engineer across 3 different states helping build really cool projects. I have since transitioned my career to return to a life long passion held for tech. After completing an intense 17 week program with [Rithm School](https://www.rithmschool.com/), I'm excited to combine my technical knowledge with my professional engineering experiences to make really cool projects as a Software Engineer.
 
 ### Get In Touch
-*📬 nick.orsi1992@gmail.com
-*[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Logo">](https://www.linkedin.com/in/nicholas-orsi-18ab8382/)
-*[www.nickorsi.com](https://www.nickorsi.com/)
+* 📬 nick.orsi1992@gmail.com
+* [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Logo">](https://www.linkedin.com/in/nicholas-orsi-18ab8382/)
+* [www.nickorsi.com](https://www.nickorsi.com/)
 
 ### Languages
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -58,7 +58,12 @@ class Dev {
 
   constructor() {
     this.name = "Nick Orsi";
-    this.hobbies = ["weight training", "skiing", "video games", "reading"];
+    this.hobbies = [
+        "weight training 🏋️",
+        "skiing ⛷️",
+        "video games 🎮",
+        "reading 📖"
+    ];
     this.civilProjects = {
       "Folsom Dam": 2014,
       "HART Light Rail": 2015,
@@ -73,8 +78,8 @@ class Dev {
       "Belmont, CA",
       "Broomfield, CO"
     ]
-    this.favAuthor = "Stephen King";
-    this.favSong = "Hotel California, Eagles"
+    this.favAuthor = "Stephen King 🤡";
+    this.favSong = "Hotel California, Eagles 🦅"
   }
 
   greeting(): string {
