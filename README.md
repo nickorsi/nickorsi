@@ -12,6 +12,7 @@ For 8 years of my life I worked as a Civil Engineer across 3 different states he
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Static Badge](https://img.shields.io/badge/SQL-%231375D6?style=for-the-badge)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
 ### Frontend Technologies
@@ -22,6 +23,8 @@ For 8 years of my life I worked as a Civil Engineer across 3 different states he
 ### Backend Trachnologies
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![Static Badge](https://img.shields.io/badge/SQLAlchemy-%23D63113?style=for-the-badge)
+![Jinja](https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 
@@ -31,9 +34,52 @@ For 8 years of my life I worked as a Civil Engineer across 3 different states he
 ![Jasmine](https://img.shields.io/badge/jasmine-%238A4182.svg?style=for-the-badge&logo=jasmine&logoColor=white)
 ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE)
 ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
+![Static Badge](https://img.shields.io/badge/ElephantSQL-%233F9BBF?style=for-the-badge)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ### Workflow Tools
 ![VS Code Insiders](https://img.shields.io/badge/VS%20Code%20Insiders-35b393.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+### Projects
+* [Saltly](https://github.com/nickorsi/satly) - An image light table/editor app
+* [Warbler](https://github.com/nickorsi/flask-warbler) - Asocial media app/messaging app
+
+### Fun Facts
+```ts
+class Dev {
+  name: string;
+  hobbies: string[];
+  civilProjects: Record<string, number>;
+  citiesLived: string[];
+  favAuthor: string;
+  favSong: string;
+
+  constructor() {
+    this.name = "Nick Orsi";
+    this.hobbies = ["weight training", "skiing", "video games", "reading"];
+    this.civilProjects = {
+      "Folsom Dam": 2014,
+      "HART Light Rail": 2015,
+      "Oroville Spillway Repair": 2017,
+      "SM101 Freeway Widening": 2020,
+      "Gross Reservoir Dam": 2022
+    };
+    this.citiesLived = [
+      "Waipahu, HI",
+      "Paradise, CA",
+      "Chico, CA",
+      "Belmont, CA",
+      "Broomfield, CO"
+    ]
+    this.favAuthor = "Stephen King";
+    this.favSong = "Hotel California, Eagles"
+  }
+
+  greeting(): string {
+    return `Hi, my name is ${this.name} and I'm a software engineer!`
+  }
+
+}
+```
