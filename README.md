@@ -2,7 +2,7 @@
 
 I worked for 8 years as a Civil Engineer across 3 different states helping build really cool projects. I have since transitioned my career to return to a life long passion held for tech. After completing an intense 17 week program with [Rithm School](https://www.rithmschool.com/), I'm excited to combine my technical knowledge with my professional engineering experiences to build meaingful software.
 
-Currently, I'm working as a Full-Stack and Applied AI Engineer, developing mobile applications and backend services that bring machine learning into real-world use. While most of this work is in pricate repositories, I'm actively exploruing ways to share and demonstrate my approach through projects and learning logs here.
+Currently, I'm working as a Full-Stack and Applied AI Engineer, developing mobile applications and backend services that bring machine learning into real-world use. While most of this work is in private repositories, I'm actively exploring ways to share and demonstrate my approach through projects and learning logs here.
 
 ### Get In Touch
 * 📬 nick.orsi1992@gmail.com
