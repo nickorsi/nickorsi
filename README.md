@@ -1,8 +1,18 @@
 ## 👋 Hello! I'm Nick Orsi 💻 Software Engineer & Former Civil Engineer 🚧
 
-I worked for 8 years as a Civil Engineer across 3 different states helping build really cool projects. I have since transitioned my career to return to a life long passion held for tech. After completing an intense 17 week program with [Rithm School](https://www.rithmschool.com/), I'm excited to combine my technical knowledge with my professional engineering experiences to build meaingful software.
+I’m an engineer who enjoys building impactful products with strong teams.
 
-Currently, I'm working as a Full-Stack and Applied AI Engineer, developing mobile applications and backend services that bring machine learning into real-world use. While most of this work is in private repositories, I'm actively exploring ways to share and demonstrate my approach through projects and learning logs here.
+I began my career as a Civil Engineer contributing to large-scale infrastructure projects including light rail systems, freeways and dams. While the work was challenging and rewarding, I became increasingly aware of how far the construction industry lags behind modern software tooling. In the field, I often experienced inefficiencies caused by outdated and unreliable systems, leading to duplicated work and avoidable friction.
+
+To help close this gap, I used my background in engineering and interest in modern tech to transition into software engineering in 2023. I completed a 17-week intensive program at [Rithm School](https://www.rithmschool.com/) and have since been building full-stack web and mobile applications, with a growing focus on applied AI.
+
+My mission is to develop reliable, modern tools that help my fellow builders in construction execute the important work they do safely and efficiently.
+
+***Note on GitHub activity***: In 2025 I worked as a Full-Stack and Applied AI Engineer at Lennar using a GitHub enterprise managed user account. This prevented me linking my history, so I've instead included a brief clip showing my contribution history.
+
+<details><summary>Github 2025 Contribution History</summary>
+<img src="./assets/github_history_gif.gif" width="900"/>
+</details>
 
 ### Get In Touch
 * 📬 nick.orsi1992@gmail.com
